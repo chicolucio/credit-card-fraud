@@ -269,6 +269,10 @@ package:
    You can also setup breakpoints manually instead of using the `--pdb` option.
 
 
+[^contrib1]: Even though, these resources focus on open source projects and
+    communities, the general ideas behind collaborating with other developers
+    to collectively create software are general and can be applied to all sorts
+    of environments, including private companies and proprietary code bases.
 
 [black]: https://pypi.org/project/black/
 [commonmark]: https://commonmark.org/
@@ -298,8 +302,5 @@ package:
 [virtualenv]: https://virtualenv.pypa.io/en/stable/
 
 
-```{todo} Please review and change the following definitions:
-```
-
-[repository]: https://github.com/<USERNAME>/fraud
-[issue tracker]: https://github.com/<USERNAME>/fraud/issues
+[repository]: https://github.com/chicolucio/credit-card-fraud
+[issue tracker]: https://github.com/chicolucio/credit-card-fraud/issues
