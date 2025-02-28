@@ -108,7 +108,7 @@ Optional and needed only once after `git clone`:
    A simple `nbstripout --uninstall` will revert these changes.
 
 
-Then take a look into the `scripts` and `notebooks` folders.
+Then take a look into the `src` and `notebooks` folders.
 
 ### MLFlow setup
 
