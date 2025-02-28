@@ -56,14 +56,14 @@ with preprocessing and resampling, has the following metrics:
 
 | Metric              | Score    | Std Dev   |
 |---------------------|----------|-----------|
-| Accuracy            | 0.999680 | 0.000046  |
-| Balanced Accuracy   | 0.914688 | 0.011774  |
-| F1                  | 0.906547 | 0.014236  |
-| Precision           | 1.000000 | 0.000000  |
-| Recall              | 0.829375 | 0.023549  |
-| ROC AUC             | 0.940962 | 0.008235  |
-| Average Precision   | 0.865117 | 0.026657  |
-| F1 Weighted         | 0.999665 | 0.000050  |
+| Accuracy            | 0.99968 | 0.00004  |
+| Balanced Accuracy   | 0.91 | 0.01  |
+| F1                  | 0.90 | 0.01  |
+| Precision           | 1.00 | 0.00  |
+| Recall              | 0.82 | 0.02  |
+| ROC AUC             | 0.941 | 0.008  |
+| Average Precision   | 0.86 | 0.02  |
+| F1 Weighted         | 0.999665 | 0.00005  |
 
 
 
